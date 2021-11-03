@@ -33,7 +33,7 @@ module.exports = {
     styled: true,
     themes: [
       // first one will be the default theme
-      "synthwave",
+      "dracula",
       // uncomment to enable
       // "light (default)",
       // "dark",
