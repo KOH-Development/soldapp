@@ -17,7 +17,7 @@ export const HomeView: FC = ({}) => {
         <div className="navbar mb-2 shadow-lg bg-neutral text-neutral-content rounded-box">
           <div className="flex-none">
             <button className="btn btn-square btn-ghost">
-              <span className="text-4xl">🦤</span>
+              <span className="text-4xl"></span>
             </button>
           </div>
           <div className="flex-1 px-2 mx-2">
@@ -33,8 +33,9 @@ export const HomeView: FC = ({}) => {
             <div className="text-center hero-content">
               <div className="max-w-md">
                 <h1 className="mb-5 text-5xl font-bold">
-                  Possum Posse <SolanaLogo /> World!
+                  Posum Possse <SolanaLogo />
                 </h1>
+                <img src="index.tsx" alt="possum"/>
                 <p className="mb-5">
                   Welcome to Possum Posse NFT!
                 </p>
