@@ -35,7 +35,7 @@ export const HomeView: FC = ({}) => {
                 <h1 className="mb-5 text-5xl font-bold">
                   Posum Possse <SolanaLogo />
                 </h1>
-                <img src="pos.png" alt="possum"/>
+                <img src={ require('/pos.png') } />
                 <p className="mb-5">
                   Welcome to Possum Posse NFT!
                 </p>
