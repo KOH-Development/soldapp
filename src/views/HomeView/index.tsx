@@ -33,12 +33,10 @@ export const HomeView: FC = ({}) => {
             <div className="text-center hero-content">
               <div className="max-w-md">
                 <h1 className="mb-5 text-5xl font-bold">
-                  Hello Solana <SolanaLogo /> World!
+                  Possum Posse <SolanaLogo /> World!
                 </h1>
                 <p className="mb-5">
-                  This scaffold includes awesome tools for rapid development and
-                  deploy dapps to Solana: Next.JS, TypeScript, TailwindCSS,
-                  Daisy UI.
+                  Welcome to Possum Posse NFT!
                 </p>
                 <p className="mb-5">
                   Sollana wallet adapter is connected and ready to use.
